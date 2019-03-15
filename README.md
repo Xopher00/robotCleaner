@@ -3,7 +3,8 @@
 https://xopher00.github.io/robotCleaner/
 
 This application asks for a set of instructions to give to a janitor robot. 
-Based on these instructions, it returns the number of unique spaces the robot has cleaned.
+Instructions consist of a cardinal direction (N, S, E, or W) and the number of steps to take in that direction.
+Based on these instructions, the application returns the number of unique spaces the robot has cleaned.
 Spaces that the robot covers more than once are not counted to the unique space total.
 The robot can only clean spaces within a set grid. The X and Y axes range from -100,000 to 100,000.
 
