@@ -18,11 +18,12 @@ Output: 9 Unique Spaces Cleaned
 ```
 
 ```
-Number of Commands: 2
-Starting Point: -100000 , -99999
-Command 1: W 2
-Command 2: S 2
-Output: 2 Unique Spaces Cleaned
+Number of Commands: 3
+Starting Point: -99999 , -99998
+Command 1: W 3
+Command 2: S 4
+Command 3: E 4
+Output: 8 Unique Spaces Cleaned
 ```
 
 ```
