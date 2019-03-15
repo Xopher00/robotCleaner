@@ -33,5 +33,5 @@ Command 2: N 1
 Command 3: W 9
 Command 3: S 1
 Command 1: E 9
-Output: 20 Unique Spaces Cleaned*
+Output: 20 Unique Spaces Cleaned
 ```
